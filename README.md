@@ -1,5 +1,5 @@
 
-# Projet de Gestion de Réservations et Clients
+  # Projet de Gestion de Réservations et Clients
 
 Ce projet Python/SQLite est conçu pour gérer une base de données permettant la gestion des clients et des réservations. Il utilise SQLite pour le stockage des données et Python pour les interactions et manipulations via des scripts.
 
